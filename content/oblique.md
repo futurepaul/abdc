@@ -1,0 +1,117 @@
+- Remove specifics and convert to ambiguities
+- Don't be frightened of cliches
+- What is the reality of the situation?
+- Are there sections? Consider transitions
+- Turn it upside down
+- Think of the radio
+- Allow an easement (an easement is the abandonment of a stricture)
+- Simple subtraction
+- Go slowly all the way round the outside
+- A line has two sides
+- Make an exhaustive list of everything you might do and do the last thing on the list
+- Into the impossible
+- Ask people to work against their better judgement
+- Take away the elements in order of apparent non-importance
+- Infinitesimal gradations
+- Change instrument roles
+- Accretion
+- Disconnect from desire
+- Emphasize repetitions
+- Don't be afraid of things because they're easy to do
+- Don't be frightened to display your talents
+- Breathe more deeply
+- Honor thy error as a hidden intention
+- Only one element of each kind
+- Is there something missing?
+- Use 'unqualified' people
+- How would you have done it?
+- Emphasize differences
+- Do nothing for as long as possible
+- Bridges -build -burn
+- You don't have to be ashamed of using your own ideas
+- Tidy up
+- Do the words need changing?
+- Ask your body
+- Water
+- Make a sudden, destructive unpredictable action; incorporate
+- Consult other sources -promising -unpromising
+- Use an unacceptable color
+- Humanize something free of error
+- Use filters
+- Fill every beat with something
+- Discard an axiom
+- What wouldn't you do?
+- Decorate, decorate
+- Balance the consistency principle with the inconsistency principle
+- Listen to the quiet voice
+- Is it finished?
+- Put in earplugs
+- Give the game away
+- Abandon normal instruments
+- Use fewer notes
+- Repetition is a form of change
+- Give way to your worst impulse
+- Reverse
+- Trust in the you of now
+- What would your closest friend do?
+- Distorting time
+- Make a blank valuable by putting it in an exquisite frame
+- [blank white card]
+- Ghost echoes
+- You can only make one dot at a time
+- Just carry on
+- (Organic) machinery
+- The inconsistency principle
+- Don't break the silence
+- Discover the recipes you are using and abandon them
+- Cascades
+- Courage!
+- What mistakes did you make last time?
+- Consider different fading systems
+- Mute and continue
+- It is quite possible (after all)
+- Don't stress one thing more than another
+- You are an engineer
+- Remove ambiguities and convert to specifics
+- Look at the order in which you do things
+- Go outside. Shut the door.
+- Do we need holes?
+- Cluster analysis
+- Do something boring
+- Define an area as 'safe' and use it as an anchor
+- Overtly resist change
+- Accept advice
+- Work at a different speed
+- Look closely at the most embarrassing details and amplify them
+- Mechanicalize something idiosyncratic
+- Emphasize the flaws
+- Remember those quiet evenings
+- Take a break
+- Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)
+- Use an old idea
+- Destroy -nothing -the most important thing
+- Change nothing and continue with immaculate consistency
+- The tape is now the music
+- Towards the insignificant
+- Simply a matter of work
+- Not building a wall but making a brick
+- Revaluation (a warm feeling)
+- The most important thing is the thing - most easily forgotten
+- Idiot glee (?)
+- Be extravagant
+- State the problem in words as clearly as possible
+- Disciplined self-indulgence
+- Always first steps
+- Question the heroic approach
+- Intentions -nobility of -humility of -credibility of
+- What are you really thinking about just now?
+- Assemble some of the elements in a group and treat the group
+- Lowest common denominator
+- In total darkness, or in a very large room, very quietly
+- Would anybody want it?
+- Retrace your steps
+- Go to an extreme, move back to a more comfortable place
+- Once the search is in progress, something will be found
+- Only a part, not the whole
+- From nothing to more than nothing
+- Be less critical more often

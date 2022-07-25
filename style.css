@@ -54,7 +54,7 @@
         margin-top: 2rem;
       }
 
-      h1 {
+      #logo {
         background-image: var(--logo-image);
         background-repeat: no-repeat;
         color: transparent;
@@ -77,6 +77,7 @@
         margin-bottom: 0.5rem;
         /* background-position: left 4px; */
         background-repeat: no-repeat;
+        background-size: 1rem;
         background-image: var(--bolt);
       }
     </style>
