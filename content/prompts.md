@@ -26,20 +26,28 @@ Bob Jr wants to receive his weekly allowance in bitcoin.
 
 ## Lightning send (remote)
 
-Alice wants to send a lightning payment to Bob, but Bob isn't in QR code scanning range.
+Car wants to send a lightning payment to Bob, but Bob isn't in QR code scanning range.
 
 ## Lightning receive (remote)
 
-Bob wants to receive a lightning payment from Alice, but can't show her a QR code.
+Sahil wants to receive a lightning payment from Alice, but can't show her a QR code.
 
 ## Restaurant tip
 
-Alice had an excellent meal and would like to tip the wait staff when paying.
+Paul had an excellent meal and would like to tip the wait staff when paying.
 
 ## Self-custody
 
-Justin Moon has been DCAing on an exchange but heard "not your keys not your coins" on a podcast.
+Justin has been DCAing on an exchange but just heard "not your keys not your coins" on a podcast.
 
 ## NFC aka "boop to pay"
 
-Alice and Bob have phones with built-in NFC. Alice owes Bob $100 for painting her Warhammer figurines.
+Ben and Alice have phones with built-in NFC. Ben owes Alice $100 for painting his Warhammer figurines.
+
+## Unified on-chain and lightning
+
+Alice wants to pay Bob but she isn't sure what the difference between lightning and "on-chain" is. Bob's wallet supports BIP21 Unified QR codes. wyd
+
+## Copy cat
+
+Steal a prompt from another group, but target a different persona than them.
