@@ -47,11 +47,16 @@
       }
 
       h1,
-      h2,
-      h3 {
+      h2 {
         font-family: "Raleway", sans-serif;
         font-size: 24px;
         margin-top: 2rem;
+      }
+
+      h3 {
+        font-family: "Raleway", sans-serif;
+        font-size: 20px;
+        margin-top: 1rem;
       }
 
       #logo {

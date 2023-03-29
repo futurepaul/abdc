@@ -3,6 +3,10 @@
     {
       "source": "/feedback",
       "destination": "https://docs.google.com/forms/d/e/1FAIpQLSdVQzqVMGHHjOtYWKbP1dqvzj8PgZOigWL0RXVOd-7C96wh2A/viewform"
+    },
+    {
+      "source": "/crit",
+      "destination": "https://forms.gle/BDPAHDbDxsyvFNtFA"
     }
   ]
 }
